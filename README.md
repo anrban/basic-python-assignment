@@ -23,7 +23,4 @@ This repository contains solutions for **Assignment 1: Basic Python Concepts**.
 ## **Requirements**
 - Python 3.x
 
-## **Author**
-[Your Name]  
-**BCA Student | AI & ML Enthusiast**
 
